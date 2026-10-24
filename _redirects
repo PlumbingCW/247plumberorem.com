@@ -1,0 +1,2 @@
+# Cloudflare Pages redirects. Intentionally empty: clean URLs resolve natively from slug/index.html.
+# Add real legacy or cross-domain redirects below, one per line.
